@@ -46,7 +46,7 @@ from google_places_scraper import GooglePlacesScraper
 
 scraper = GooglePlacesScraper(api_key="YOUR_GOOGLE_API_KEY")
 scraper.run(
-    user_location_input="Karachi, Pakistan",
+    user_location_input="Karachi Pakistan",
     radius=3000,
     type_="school",
     export_format="csv",  # Options: csv, json, yaml
