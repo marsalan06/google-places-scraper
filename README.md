@@ -3,6 +3,10 @@
 A Python wrapper and CLI tool to scrape nearby places using the Google Places API. Useful for lead generation, local business discovery, and location data gathering.
 
 ---
+# Links
+https://pypi.org/project/google-places-scraper/
+https://github.com/marsalan06/google-places-scraper
+---
 
 ## ✨ Features
 
